@@ -11,7 +11,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 ## Categories Covered
 
-- **Authentication vulnerabilities**: 0/14 lab
+- **Authentication vulnerabilities**: 12/14 lab
 - **SQL injection**: 0/18 lab
 - **Access control**: 0/13 lab
 
@@ -34,9 +34,42 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 
 | No | Date       | Topic          | Lab Title                                   | Difficulty  | Writeup Link |
 |----|------------|----------------|---------------------------------------------|-------------|--------------|
-| 1  | 2026-00-00 |     |  |  | N/A |
-| 2  | 2026-00-00 |     |  |  | N/A |
-| 3  | 2026-00-00 |     |  |  | N/A |
-| 4  | 2026-00-00 |     |  |  | N/A |
-| 5  | 2026-00-00 |     |  |  | N/A |
+| 1  | 2026-06-24 | Authenticaion  | Username enumeration via different response | APPRENTICE  | N/A |
+| 2  | 2026-06-24 | Authenticaion  | Username enumeration via subtly different responses | PRACTITIONER | N/A |
+| 3  | 2026-06-27 | Authenticaion  | Username enumeration via response timing    | PRACTITIONER | N/A |
+| 4  | 2026-06-27 | Authenticaion  | Broken brute-force protection, IP block     | PRACTITIONER | N/A |
+| 5  | 2026-06-27 | Authenticaion  | Username enumeration via account lock | PRACTITIONER | N/A |
+| 6  | 2026-06-27 |  Authenticaion  | Broken brute-force protection, multiple credentials per request | EXPERT | N/A |
+| 7  | 2026-06-27 | Authenticaion    | 2FA simple bypass | APPRENTICE | N/A |
+| 8  | 2026-06-28 | Authenticaion    | 2FA broken logic | PRACTITIONER | N/A |
+| 9  | 2026-06-28 | Authenticaion    | 2FA bypass using a brute-force attack | EXPERT | N/A |
+| 10 | 2026-06-28 | Authenticaion    | Brute-forcing a stay-logged-in cookie | PRACTITIONER | N/A |
+| 11 | 2026-06-28 | Authenticaion    | Password reset broken logic | APPRENTICE | N/A |
+| 12 | 2026-06-28 | Authenticaion    | Password brute-force via password change | PRACTITIONER | N/A |
+| 13 | 2026-00-00 |     |  |  | N/A |
+| 14 | 2026-00-00 |     |  |  | N/A |
+| 15 | 2026-00-00 |     |  |  | N/A |
+| 16 | 2026-00-00 |     |  |  | N/A |
+-++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
