@@ -5,14 +5,16 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 3 of 61
-- **Practitioner**: 7 of 174
+- **Apprentice**: 7 of 61
+- **Practitioner**: 15 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 12/14 lab
-- **SQL injection**: 0/18 lab
+- **SQL injection**: 3/18 lab
+- **Path Traversal**: 6/6 lab
+- **Command Injection**: 3/5 lab
 - **Access control**: 0/13 lab
 
 ## Notes
@@ -46,10 +48,21 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 10 | 2026-06-28 | Authenticaion    | Brute-forcing a stay-logged-in cookie | PRACTITIONER | N/A |
 | 11 | 2026-06-28 | Authenticaion    | Password reset broken logic | APPRENTICE | N/A |
 | 12 | 2026-06-28 | Authenticaion    | Password brute-force via password change | PRACTITIONER | N/A |
-| 13 | 2026-00-00 |     |  |  | N/A |
-| 14 | 2026-00-00 |     |  |  | N/A |
-| 15 | 2026-00-00 |     |  |  | N/A |
-| 16 | 2026-00-00 |     |  |  | N/A |
+| 13 | 2026-07-03 |  Path Traversal   | File path traversal, simple case | APPRENTICE | N/A |
+| 14 | 2026-07-03 |  Path Traversal   | File path traversal, traversal sequences blocked with absolute path bypass | PRACTITIONER | N/A |
+| 15 | 2026-07-03 |  Path Traversal   | File path traversal, traversal sequences stripped non-recursively | PRACTITIONER | N/A |
+| 16 | 2026-07-03 |  Path Traversal   | File path traversal, traversal sequences stripped with superfluous URL-decode | PRACTITIONER | N/A |
+| 17 | 2026-07-05 |  Path Traversal | File path traversal, validation of start of path  | PRACTITIONER | N/A |
+| 18 | 2026-07-05 |  Path Traversal  | File path traversal, validation of file extension with null byte bypass | PRACTITIONER | N/A |
+| 19 | 2026-07-05 |  SQL injection  | SQL injection vulnerability in WHERE clause allowing retrieval of hidden data | APPRENTICE | N/A |
+| 20 | 2026-07-05 |  SQL injection  | SQL injection vulnerability allowing login bypass | APPRENTICE | N/A |
+| 21 | 2026-07-05 |  SQL injection  | SQL injection attack, querying the database type and version on Oracle | PRACTITIONER | N/A |
+| 22 | 2026-07-05 |  Command Injection  | OS command injection, simple case | APPRENTICE | N/A |
+| 23 | 2026-07-05 |  Command Injection  | Blind OS command injection with time delays | PRACTITIONER | N/A |
+| 24 | 2026-07-05 | Command Injection | Blind OS command injection with output redirection | PRACTITIONER | N/A |
+| 25 | 2026-00-00 |  |  |  | N/A |
+| 26 | 2026-00-00 |  |  |  | N/A |
+| 27 | 2026-00-00 |  |  |  | N/A |
 -++
 
 
