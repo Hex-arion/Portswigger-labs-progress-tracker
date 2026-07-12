@@ -5,7 +5,7 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 7 of 61
+- **Apprentice**: 15 of 61
 - **Practitioner**: 15 of 174
 - **Expert**: 2 of 39
 
@@ -15,7 +15,7 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **SQL injection**: 3/18 lab
 - **Path Traversal**: 6/6 lab
 - **Command Injection**: 3/5 lab
-- **Access control**: 0/13 lab
+- **Access control**: 8/13 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -60,9 +60,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 22 | 2026-07-05 |  Command Injection  | OS command injection, simple case | APPRENTICE | N/A |
 | 23 | 2026-07-05 |  Command Injection  | Blind OS command injection with time delays | PRACTITIONER | N/A |
 | 24 | 2026-07-05 | Command Injection | Blind OS command injection with output redirection | PRACTITIONER | N/A |
-| 25 | 2026-00-00 |  |  |  | N/A |
-| 26 | 2026-00-00 |  |  |  | N/A |
-| 27 | 2026-00-00 |  |  |  | N/A |
+| 25 | 2026-07-11 | Access control | Unprotected admin functionality | APPRENTICE | N/A |
+| 26 | 2026-07-11 | Access control | Unprotected admin functionality with unpredictable URL | APPRENTICE | N/A |
+| 27 | 2026-07-11 | Access control | User role controlled by request parameter | APPRENTICE | N/A |
+| 28 | 2026-07-11 | Access control | User role can be modified in user profile | APPRENTICE | N/A |
+| 29 | 2026-07-11 | Access control | User ID controlled by request parameter  | APPRENTICE | N/A |
+| 30 | 2026-07-11 | Access control | User ID controlled by request parameter, with unpredictable user IDs  | APPRENTICE | N/A |
+| 31 | 2026-07-11 | Access control | User ID controlled by request parameter with data leakage in redirect  | APPRENTICE | N/A |
+| 32 | 2026-07-11 | Access control | User ID controlled by request parameter with password disclosure | APPRENTICE | N/A |
+| 33 | 2026-00-00 |  |  |  | N/A |
+| 34 | 2026-00-00 |  |  |  | N/A |
+| 35 | 2026-00-00 |  |  |  | N/A |
 -++
 
 
