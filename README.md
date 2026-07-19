@@ -5,8 +5,8 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 15 of 61
-- **Practitioner**: 15 of 174
+- **Apprentice**: 22 of 61
+- **Practitioner**: 16 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
@@ -16,6 +16,8 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 - **Path Traversal**: 6/6 lab
 - **Command Injection**: 3/5 lab
 - **Access control**: 8/13 lab
+- **Cross-site scripting**: 5/30 lab
+- **File upload vulnerabilities**: 3/7 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
@@ -68,9 +70,16 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 30 | 2026-07-11 | Access control | User ID controlled by request parameter, with unpredictable user IDs  | APPRENTICE | N/A |
 | 31 | 2026-07-11 | Access control | User ID controlled by request parameter with data leakage in redirect  | APPRENTICE | N/A |
 | 32 | 2026-07-11 | Access control | User ID controlled by request parameter with password disclosure | APPRENTICE | N/A |
-| 33 | 2026-00-00 |  |  |  | N/A |
-| 34 | 2026-00-00 |  |  |  | N/A |
-| 35 | 2026-00-00 |  |  |  | N/A |
+| 33 | 2026-07-18 | Cross-site scripting | Reflected XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 34 | 2026-07-18 | Cross-site scripting | Stored XSS into HTML context with nothing encoded | APPRENTICE | N/A |
+| 35 | 2026-07-18 | Cross-site scripting | DOM XSS in document.write sink using source location.search | APPRENTICE | N/A |
+| 36 | 2026-07-18 | Cross-site scripting | DOM XSS in innerHTML sink using source location.search | APPRENTICE | N/A |
+| 37 | 2026-07-19 | Cross-site scripting | DOM XSS in jQuery anchor href attribute sink using location.search source | APPRENTICE | N/A |
+| 38 | 2026-07-19 | File upload vulnerabilities | Remote code execution via web shell upload | APPRENTICE | N/A |
+| 39 | 2026-07-19 | File upload vulnerabilities | Web shell upload via Content-Type restriction bypass | APPRENTICE | N/A |
+| 40 | 2026-07-19 | File upload vulnerabilities | Web shell upload via path traversal | PRACTITIONER | N/A |
+| 41 | 2026-00-00 |  |  |  | N/A |
+| 42 | 2026-00-00 |  |  |  | N/A |
 -++
 
 
