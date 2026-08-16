@@ -78,8 +78,17 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 38 | 2026-07-19 | File upload vulnerabilities | Remote code execution via web shell upload | APPRENTICE | N/A |
 | 39 | 2026-07-19 | File upload vulnerabilities | Web shell upload via Content-Type restriction bypass | APPRENTICE | N/A |
 | 40 | 2026-07-19 | File upload vulnerabilities | Web shell upload via path traversal | PRACTITIONER | N/A |
-| 41 | 2026-00-00 |  |  |  | N/A |
-| 42 | 2026-00-00 |  |  |  | N/A |
+| 41 | 2026-08-15 | SQL injection | SQL injection attack, querying the database type and version on MySQL and Microsoft | PRACTITIONER | N/A |
+| 42 | 2026-08-15 | SQL injection | SQL injection attack, listing the database contents on non-Oracle databases | PRACTITIONER | N/A |
+| 43 | 2026-08-15 | SQL injection | SQL injection attack, listing the database contents on Oracle | PRACTITIONER | N/A |
+| 44 | 2026-08-15 | Cross-site scripting | DOM XSS in jQuery selector sink using a hashchange event | APPRENTICE | N/A |
+| 45 | 2026-08-15 | Cross-site scripting | Reflected XSS into attribute with angle brackets HTML-encoded | APPRENTICE | N/A |
+| 46 | 2026-08-15 | Cross-site scripting | Stored XSS into anchor href attribute with double quotes HTML-encoded | APPRENTICE | N/A |
+| 47 | 2026-08-16 |  |  |  | N/A |
+| 48 | 2026-08-16 |  |  |  | N/A |
+| 49 | 2026-08-16 |  |  |  | N/A |
+| 50 | 2026-08-16 |  |  |  | N/A |
+| 51 | 2026-00-00 |  |  |  | N/A |
 -++
 
 
