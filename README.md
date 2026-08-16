@@ -84,13 +84,11 @@ This file tracks my progress through [PortSwigger Web Security Academy](https://
 | 44 | 2026-08-15 | Cross-site scripting | DOM XSS in jQuery selector sink using a hashchange event | APPRENTICE | N/A |
 | 45 | 2026-08-15 | Cross-site scripting | Reflected XSS into attribute with angle brackets HTML-encoded | APPRENTICE | N/A |
 | 46 | 2026-08-15 | Cross-site scripting | Stored XSS into anchor href attribute with double quotes HTML-encoded | APPRENTICE | N/A |
-| 47 | 2026-08-16 |  |  |  | N/A |
-| 48 | 2026-08-16 |  |  |  | N/A |
-| 49 | 2026-08-16 |  |  |  | N/A |
-| 50 | 2026-08-16 |  |  |  | N/A |
+| 47 | 2026-08-16 | Cross-site request forgery | CSRF vulnerability with no defenses | APPRENTICE | N/A |
+| 48 | 2026-08-16 | Cross-site request forgery | CSRF where token validation depends on request method | PRACTITIONER | N/A |
+| 49 | 2026-08-16 | Cross-site request forgery | CSRF where token validation depends on token being present | PRACTITIONER | N/A |
 | 51 | 2026-00-00 |  |  |  | N/A |
 -++
-
 
 
 
