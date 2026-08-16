@@ -5,19 +5,20 @@
 This file tracks my progress through [PortSwigger Web Security Academy](https://portswigger.net/web-security) labs. I focus on web app pentesting, documenting key labs as full writeups (linked below) and logging all solves here for reference. Full writeups are reserved for first-time techniques, complex exploits, or custom tools.
 
 ## Level progress
-- **Apprentice**: 22 of 61
-- **Practitioner**: 16 of 174
+- **Apprentice**: 26 of 61
+- **Practitioner**: 21 of 174
 - **Expert**: 2 of 39
 
 ## Categories Covered
 
 - **Authentication vulnerabilities**: 12/14 lab
-- **SQL injection**: 3/18 lab
+- **SQL injection**: 6/18 lab
 - **Path Traversal**: 6/6 lab
 - **Command Injection**: 3/5 lab
 - **Access control**: 8/13 lab
-- **Cross-site scripting**: 5/30 lab
+- **Cross-site scripting**: 8/30 lab
 - **File upload vulnerabilities**: 3/7 lab
+- **Cross-site request forgery (CSRF)**: 3/12 lab
 
 ## Notes
 - **Full Writeups**: Only for significant labs (e.g., chained exploits or scripted solutions). See `platforms/portswigger/` for details.
